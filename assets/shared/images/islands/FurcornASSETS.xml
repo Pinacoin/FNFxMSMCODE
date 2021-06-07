@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FurcornASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="furcornDown0000" x="0" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0001" x="0" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0002" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0003" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0004" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0005" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0006" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0007" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0008" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0009" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornDown0010" x="477" y="0" width="477" height="532"/>
+	<SubTexture name="furcornIdle0000" x="954" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0001" x="954" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0002" x="1534" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0003" x="1534" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0004" x="2114" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0005" x="2114" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0006" x="2694" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0007" x="2694" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0008" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0009" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0010" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0011" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0012" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornIdle0013" x="3274" y="0" width="580" height="571"/>
+	<SubTexture name="furcornLeft0000" x="0" y="571" width="480" height="532"/>
+	<SubTexture name="furcornLeft0001" x="0" y="571" width="480" height="532"/>
+	<SubTexture name="furcornLeft0002" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0003" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0004" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0005" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0006" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0007" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0008" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0009" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornLeft0010" x="480" y="571" width="477" height="532" frameX="-3" frameY="0" frameWidth="480" frameHeight="532"/>
+	<SubTexture name="furcornRight0000" x="957" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0001" x="957" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0002" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0003" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0004" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0005" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0006" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0007" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0008" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0009" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornRight0010" x="1434" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0000" x="1911" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0001" x="1911" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0002" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0003" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0004" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0005" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0006" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0007" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0008" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0009" x="2388" y="571" width="477" height="532"/>
+	<SubTexture name="furcornUp0010" x="2388" y="571" width="477" height="532"/>
+</TextureAtlas>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PomPomASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pompomDown0000" x="0" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0001" x="0" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0002" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0003" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0004" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0005" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0006" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0007" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0008" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0009" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomDown0010" x="636" y="0" width="636" height="646"/>
+	<SubTexture name="pompomIdle0000" x="1272" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0001" x="1272" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0002" x="1908" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0003" x="1908" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0004" x="2544" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0005" x="2544" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0006" x="3180" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0007" x="3180" y="0" width="636" height="657"/>
+	<SubTexture name="pompomIdle0008" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomIdle0009" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomIdle0010" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomIdle0011" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomIdle0012" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomIdle0013" x="0" y="657" width="636" height="657"/>
+	<SubTexture name="pompomLeft0000" x="636" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0001" x="636" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0002" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0003" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0004" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0005" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0006" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0007" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0008" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0009" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomLeft0010" x="1272" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0000" x="1908" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0001" x="1908" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0002" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0003" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0004" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0005" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0006" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0007" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0008" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0009" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomRight0010" x="2544" y="657" width="636" height="646"/>
+	<SubTexture name="pompomUp0000" x="3180" y="657" width="636" height="646"/>
+	<SubTexture name="pompomUp0001" x="3180" y="657" width="636" height="646"/>
+	<SubTexture name="pompomUp0002" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0003" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0004" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0005" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0006" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0007" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0008" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0009" x="0" y="1314" width="636" height="646"/>
+	<SubTexture name="pompomUp0010" x="0" y="1314" width="636" height="646"/>
+</TextureAtlas>

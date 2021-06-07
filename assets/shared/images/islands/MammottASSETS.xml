@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MammottASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mammottDown0000" x="0" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0001" x="0" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0002" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0003" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0004" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0005" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0006" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0007" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0008" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0009" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottDown0010" x="655" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0000" x="1310" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0001" x="1310" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0002" x="1965" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0003" x="1965" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0004" x="2620" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0005" x="2620" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0006" x="3275" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0007" x="3275" y="0" width="655" height="678"/>
+	<SubTexture name="mammottIdle0008" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottIdle0009" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottIdle0010" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottIdle0011" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottIdle0012" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottIdle0013" x="0" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0000" x="655" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0001" x="655" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0002" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0003" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0004" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0005" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0006" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0007" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0008" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0009" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottLeft0010" x="1310" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0000" x="1965" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0001" x="1965" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0002" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0003" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0004" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0005" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0006" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0007" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0008" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0009" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottRight0010" x="2620" y="678" width="655" height="678"/>
+	<SubTexture name="mammottUp0000" x="3275" y="678" width="655" height="678"/>
+	<SubTexture name="mammottUp0001" x="3275" y="678" width="655" height="678"/>
+	<SubTexture name="mammottUp0002" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0003" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0004" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0005" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0006" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0007" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0008" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0009" x="0" y="1356" width="655" height="678"/>
+	<SubTexture name="mammottUp0010" x="0" y="1356" width="655" height="678"/>
+</TextureAtlas>
